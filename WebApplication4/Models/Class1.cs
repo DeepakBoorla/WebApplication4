@@ -11,6 +11,6 @@ namespace WebApplication4.Models
             
         public string Name { get; set; }
 
-        public string Description { get; set; }
+        public string time { get; set; }
     }
 }
