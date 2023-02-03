@@ -12,5 +12,7 @@ namespace WebApplication4.Models
         public string Name { get; set; }
 
         public string time { get; set; }
+        public int Age { get; set; }
+        public int Balance { get; set; }
     }
 }
